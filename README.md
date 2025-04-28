@@ -61,10 +61,10 @@ See `requirements.txt` for the full list of dependencies. Key libraries include:
 - `pvlib` (for solar calculations)
 
 ## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+See the `LICENSE` file for details.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request on GitHub.
 
 ## Contact
-For questions or feedback, please contact [mnsoylemez](https://github.com/mnsoylemez).
+For questions or feedback, please contact soylemeznurhan@gmail.com.
